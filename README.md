@@ -1,2 +1,2 @@
-![group 9(2)](https://github.com/Rex123774/Face-frontalization-using-TP-GAN/assets/77051661/bdf0e487-e225-4d7a-a85e-8d60a11fa162)
+![output](https://github.com/Rex123774/Face-frontalization-using-TP-GAN/assets/77051661/2cd4df82-929e-433a-bc20-10abfd1f7720)
 # Face-frontalization-using-TP-GAN
