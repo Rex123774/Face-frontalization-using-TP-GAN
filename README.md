@@ -1,5 +1,5 @@
 ![Screenshot 2023-04-19 074732](https://github.com/Rex123774/Face-frontalization-using-TP-GAN/assets/77051661/8e7a9fb5-2f8e-4aab-847c-ec1552817b41)
-
+!link https://drive.google.com/drive/folders/12FZpvPKc5XEIv26mYH40GXvQYKKHxjXD?usp=drive_link
 # Face-frontalization-using-TP-GAN
 Face frontalization is the process of synthesizing frontal views of faces from non-frontal images. 
 TP-GAN, or Temporal Prior GAN, is an approach that utilizes temporal information to improve the quality of face frontalization.
